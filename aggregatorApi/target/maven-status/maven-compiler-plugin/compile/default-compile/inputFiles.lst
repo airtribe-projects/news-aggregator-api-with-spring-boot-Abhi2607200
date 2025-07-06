@@ -1,0 +1,16 @@
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\AggregatorApiApplication.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Controller\AuthController.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Controller\PreferenceController.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\DTO\AuthResponse.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\DTO\LoginRequest.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\DTO\PreferenceRequest.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\DTO\PreferenceResponse.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\DTO\RegisterRequest.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Entity\NewsPreference.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Entity\user.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\repository\UserRepository.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Security\JwtAuthenticationFilter.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Security\JwtUtil.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Security\SecurityConfig.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Service\Authservice.java
+C:\Users\abhis\Downloads\assignments\aggregatorApi\aggregatorApi\src\main\java\com\airtribe\aggregatorApi\Service\AuthServiceImpl.java
